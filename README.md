@@ -1,4 +1,4 @@
-README.md# 💫 About Me:
+💫 About Me:
 I,m currently working in app development
 
 
